@@ -1,0 +1,15 @@
+{
+  "name": "rust_site",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "rust_site_bg.wasm",
+    "rust_site.js",
+    "rust_site.d.ts"
+  ],
+  "main": "rust_site.js",
+  "types": "rust_site.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
