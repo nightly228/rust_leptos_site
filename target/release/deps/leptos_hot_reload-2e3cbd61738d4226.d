@@ -1,0 +1,11 @@
+C:\Users\lizzz\rust_site\target\release\deps\leptos_hot_reload-2e3cbd61738d4226.d: C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\lib.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\diff.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\node.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\parsing.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\patch.js
+
+C:\Users\lizzz\rust_site\target\release\deps\libleptos_hot_reload-2e3cbd61738d4226.rlib: C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\lib.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\diff.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\node.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\parsing.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\patch.js
+
+C:\Users\lizzz\rust_site\target\release\deps\libleptos_hot_reload-2e3cbd61738d4226.rmeta: C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\lib.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\diff.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\node.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\parsing.rs C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\patch.js
+
+C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\lib.rs:
+C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\diff.rs:
+C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\node.rs:
+C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\parsing.rs:
+C:\Users\lizzz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.5.7\src\patch.js:
