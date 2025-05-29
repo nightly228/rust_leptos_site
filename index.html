@@ -7,7 +7,7 @@
   </head>
   <body>
     <script type="module">
-      import init from "../pkg/rust_site.js";
+      import init from "./pkg/rust_site.js";
       console.log("🟡 Перед init()");
       init().then(() => console.log("🟢 Leptos инициализирован")).catch(console.error);
     </script>
