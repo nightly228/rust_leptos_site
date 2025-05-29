@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Rust Магазин</title>
+    <link rel="stylesheet" href="static/style.css" />
+  </head>
+  <body>
+    <script type="module">
+      import init from "./pkg/rust_site.js";
+      console.log("🟡 Перед init()");
+      init().then(() => console.log("🟢 Leptos инициализирован")).catch(console.error);
+    </script>
+  </body>
+</html>
