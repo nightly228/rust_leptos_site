@@ -32,10 +32,12 @@ jobs:
           cp index.html dist/
           cp -r pkg dist/
           cp -r static dist/
-          sed -i 's|\.\./pkg|pkg|g' dist/index.html  # исправляем пути
+          # 🔧 Исправляем путь к pkg в index.html
+          sed -i 's|\.\./pkg|./pkg|g' dist/index.html
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
